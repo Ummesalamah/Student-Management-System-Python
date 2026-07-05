@@ -55,5 +55,5 @@ python Student_management.py
 - Attendance Management
 
 ## 👨‍💻 Author
-*Ummesalamah Parawala*
+*Ummesalamah Parawala*<br>
 ⭐ If you found this project useful, consider giving it a star.
