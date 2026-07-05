@@ -36,6 +36,17 @@ Student-Management-System-Python/
 python Student_management.py
 ```
 
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### Add Student
+![Add Student](screenshots/add_student.png)
+
+### Display Students
+![Display Students](screenshots/display_student.png)
+
 ## 📌 Future Improvements
 - Login System
 - SQLite Database
@@ -44,6 +55,5 @@ python Student_management.py
 - Attendance Management
 
 ## 👨‍💻 Author
-**Ummesalamah Parawala**
----
+*Ummesalamah Parawala*
 ⭐ If you found this project useful, consider giving it a star.
